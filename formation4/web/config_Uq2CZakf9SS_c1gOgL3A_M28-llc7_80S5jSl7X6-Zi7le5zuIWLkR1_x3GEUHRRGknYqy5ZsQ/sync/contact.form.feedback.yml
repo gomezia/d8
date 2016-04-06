@@ -1,0 +1,12 @@
+uuid: 50819f15-dd73-44ec-9e00-dcf790dd114e
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Retours utilisateurs sur le site web'
+recipients:
+  - mnsoft31@gmail.com
+reply: ''
+weight: 0

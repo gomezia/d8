@@ -1,0 +1,6 @@
+uuid: ac08a015-df8e-4f84-a700-c76d6a2fe266
+langcode: fr
+status: true
+dependencies: {  }
+id: test_de_config
+label: 'test de config'
