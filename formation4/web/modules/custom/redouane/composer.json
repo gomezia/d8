@@ -1,0 +1,14 @@
+{
+  "name": "drupal/redouane",
+  "type": "drupal-module",
+  "description": "fi khater redouane w ness wahran",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/redouane",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/redouane",
+    "source": "http://cgit.drupalcode.org/redouane"
+  },
+  "require": { }
+}

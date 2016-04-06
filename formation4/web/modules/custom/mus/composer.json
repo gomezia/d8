@@ -1,0 +1,14 @@
+{
+  "name": "drupal/mus",
+  "type": "drupal-module",
+  "description": "Module de test",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/mus",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/mus",
+    "source": "http://cgit.drupalcode.org/mus"
+  },
+  "require": { }
+}

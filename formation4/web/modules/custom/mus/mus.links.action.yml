@@ -1,0 +1,6 @@
+entity.mus_config_entity.add_form:
+  route_name: 'entity.mus_config_entity.add_form'
+  title: 'Add Mus config entity'
+  appears_on:
+    - entity.mus_config_entity.collection
+

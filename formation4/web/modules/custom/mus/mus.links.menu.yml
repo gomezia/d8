@@ -1,0 +1,8 @@
+# Mus config entity menu items definition
+entity.mus_config_entity.collection:
+  title: 'Mus config entity'
+  route_name: entity.mus_config_entity.collection
+  description: 'List Mus config entity (bundles)'
+  parent: system.admin_structure
+  weight: 99
+

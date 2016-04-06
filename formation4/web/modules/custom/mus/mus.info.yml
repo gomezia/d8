@@ -1,0 +1,5 @@
+name: mus
+type: module
+description: Module de test
+core: 8.x
+package: Custom
